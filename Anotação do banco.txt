@@ -1,0 +1,8 @@
+banco: bdagendas
+tabela: tbcliente
+codigo int auto pk
+nome varchar(90)
+idade int
+datanasc date
+salario decimal(6,2)
+altura float
